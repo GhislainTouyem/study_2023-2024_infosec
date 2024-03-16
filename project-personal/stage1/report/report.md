@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт о выполнении. Индивидуальный проект. Этап 1"
 subtitle: "Установка Kali Linux"
-author: "Туем Гислен"
+author: "Туем Гислен."
 
 ## Generic otions
 lang: ru-RU
